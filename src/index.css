@@ -1,8 +1,8 @@
-.sideBar__top{
-   position: relative;
-   z-index: 0;
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
 }
-.asd {
-   position: relative;
-   z-index: 100;
+.app{
+display: flex;
 }
